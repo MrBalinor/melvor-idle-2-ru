@@ -4,7 +4,7 @@
 
 ---
 
-## 📥 Скачать бесплатно (актуальная версия v1.0.1)
+## 📥 Скачать бесплатно (актуальная версия v1.0.2)
 
 ### 👉 **[Скачать архив напрямую - Melvor2_Russian_Mod.zip (~700 КБ)](https://github.com/MrBalinor/melvor-idle-2-ru/releases/latest/download/Melvor2_Russian_Mod.zip)**
 *(или откройте [раздел Releases](https://github.com/MrBalinor/melvor-idle-2-ru/releases/latest))*
