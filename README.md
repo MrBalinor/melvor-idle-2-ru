@@ -4,9 +4,9 @@
 
 ---
 
-## 📥 Скачать бесплатно (актуальная версия v1.0.2)
+## 📥 Скачать бесплатно (актуальная версия v1.0.3)
 
-### 👉 **[Скачать архив напрямую - Melvor2_Russian_Mod.zip (~700 КБ)](https://github.com/MrBalinor/melvor-idle-2-ru/releases/latest/download/Melvor2_Russian_Mod.zip)**
+### 👉 **[Скачать архив напрямую - Melvor2_Russian_Mod.zip (~2.8 МБ)](https://github.com/MrBalinor/melvor-idle-2-ru/releases/latest/download/Melvor2_Russian_Mod.zip)**
 *(или откройте [раздел Releases](https://github.com/MrBalinor/melvor-idle-2-ru/releases/latest))*
 
 ---
@@ -47,9 +47,3 @@
    └── data_GamesByMalcs.Melvor2_windows_x86_64/
    ```
 5. Запустите игру через Steam и выберите **«Русский»** при первом запуске (либо в меню **Settings → Language → Русский**).
-
----
-
-## 🗑 Удаление
-
-Удалите файл `override.cfg` и папку `mod` из папки с игрой - игра мгновенно вернётся к чистой английской версии без перекачивания файлов.
